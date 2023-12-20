@@ -1,0 +1,1 @@
+This project implements a stylish and advanced animated dropdown menu using HTML, CSS, and JavaScript. The dropdown menu features smooth animations, a clean design, and supports submenus for a more sophisticated user experience.
